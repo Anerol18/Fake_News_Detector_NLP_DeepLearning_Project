@@ -1,0 +1,9 @@
+name: fake_news
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - pandas
+  - pip
+  - python
+  - tensorflow-gpu
