@@ -1,6 +1,6 @@
 
 # Install necessary libraries
-!pip install transformers pandas scikit-learn torch
+# !pip install transformers pandas scikit-learn torch
 
 # Import libraries
 import pandas as pd
