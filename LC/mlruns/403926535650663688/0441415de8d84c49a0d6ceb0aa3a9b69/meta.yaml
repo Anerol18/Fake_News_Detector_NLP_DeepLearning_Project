@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gamal/Fake_News_Detector_NLP_DeepLearning_Project/LC/mlruns/403926535650663688/0441415de8d84c49a0d6ceb0aa3a9b69/artifacts
+end_time: 1726065842968
+entry_point_name: ''
+experiment_id: '403926535650663688'
+lifecycle_stage: active
+run_id: 0441415de8d84c49a0d6ceb0aa3a9b69
+run_name: invincible-pig-414
+run_uuid: 0441415de8d84c49a0d6ceb0aa3a9b69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726065842962
+status: 3
+tags: []
+user_id: gamal
