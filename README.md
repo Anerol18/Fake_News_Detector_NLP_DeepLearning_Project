@@ -20,5 +20,6 @@ One which finetunes the Fake News Detector model using Stella ("dunzhang/stella_
 The second one is used to write a sentence in input and get a Fake or Real output.
 
 ## WARNING ##
-End of october 2024: T4 Tesla GPU from one day to the order couldn't run anymore flash-attn package. 
-Make sure to use another GPU until it's corrected.
+ ° End of october 2024: T4 Tesla GPU from one day to the order couldn't run anymore flash-attn package. Make sure to use another GPU until it's corrected.
+ 
+ ° For the interface it might occur an error if there is not enough time to load the model. In that case please wait a minute or two before trying again. 
