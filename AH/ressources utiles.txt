@@ -1,8 +1,0 @@
-
-GPU vs CPU for embeddings 
-https://discuss.huggingface.co/t/gpu-is-far-slower-than-cpu-for-patch-embedding/91026
-
-https://medium.com/nixiesearch/how-to-compute-llm-embeddings-3x-faster-with-model-quantization-25523d9b4ce5
-
-Embedding drift detection
-https://www.evidentlyai.com/blog/embedding-drift-detection
